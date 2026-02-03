@@ -15,10 +15,6 @@ It showcases my projects, skills, and contact information in a clean and respons
 - CSS3
 - JavaScript
 
-## How to View
-Open `index.html` in your browser to see the portfolio locally.  
-Or visit the live site hosted on GitHub Pages:  
-👉 [https://yuvrajupadhyay0007-bot.github.io/portfolio/](https://yuvrajupadhyay0007-bot.github.io/portfolio/)
 
 ## Future Improvements
 - Add dark mode toggle
